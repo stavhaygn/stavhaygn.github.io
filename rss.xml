@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>stavhaygn Blog</title>
+        <link>https://stavhaygn.tw/</link>
+        <description>stavhaygn Blog</description>
+        <lastBuildDate>Tue, 12 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome Docusaurus v2]]></title>
+            <link>https://stavhaygn.tw/2021/01/12/hello-docusaurus-v2</link>
+            <guid>Welcome Docusaurus v2</guid>
+            <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my first post on Docusaurus 2.]]></description>
+        </item>
+    </channel>
+</rss>

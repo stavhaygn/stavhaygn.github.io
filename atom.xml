@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://stavhaygn.tw/</id>
+    <title>stavhaygn Blog</title>
+    <updated>2021-01-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://stavhaygn.tw/"/>
+    <subtitle>stavhaygn Blog</subtitle>
+    <icon>https://stavhaygn.tw/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome Docusaurus v2]]></title>
+        <id>Welcome Docusaurus v2</id>
+        <link href="https://stavhaygn.tw/2021/01/12/hello-docusaurus-v2"/>
+        <updated>2021-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first post on Docusaurus 2.]]></summary>
+    </entry>
+</feed>
